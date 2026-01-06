@@ -1,6 +1,6 @@
 # This is a CODEOWNERS file to automatically assign reviewers for specific paths
 # For more information, see: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
-/src @nocmove/team1
-!/src/images
+/src/ @nocmove/team1
+!/src/images/
 
